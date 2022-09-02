@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavy Airi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tech-bash&label=Profile%20views&color=0e75b6&style=flat" alt="tech-bash" /> </p>
 
-- 🌱 I’m currently learning **QT**
+- 🌱 I’m currently working on  **Xmpp's Client: Kaidan**
 
 - 💬 Ask me about **react.js,node.js,qt,qml**
 
