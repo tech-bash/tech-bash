@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently working with  **XMPP Client: <a href = "https://invent.kde.org/tech-bash/kaidan" target="_blank">Kaidan</a>**
 
-- 💬 Ask me about **react.js,node.js,qt,qml**
+- 💬 Ask me about **React.js, Node.js, Qt, QML**
 
 - 📫 How to reach me :**airiraghav@gmail.com**
 
