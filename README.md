@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bhavy Airi</h1>
 
-- 🌱 I’m currently working on  **Xmpp's Client: Kaidan**
+- 🌱 I’m currently working with  **Xmpp's Client: <a href = "https://invent.kde.org/tech-bash/kaidan" target="_blank">Kaidan</a>**
 
 - 💬 Ask me about **react.js,node.js,qt,qml**
 
-- 📫 How to reach me **airiraghav@gmail.com**
+- 📫 How to reach me :**airiraghav@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
