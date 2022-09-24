@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhavy Airi</h1>
 
-- 🌱 I’m currently working with  **Xmpp's Client: <a href = "https://invent.kde.org/tech-bash/kaidan" target="_blank">Kaidan</a>**
+- 🌱 I’m currently working with  **XMPP Client: <a href = "https://invent.kde.org/tech-bash/kaidan" target="_blank">Kaidan</a>**
 
 - 💬 Ask me about **react.js,node.js,qt,qml**
 
